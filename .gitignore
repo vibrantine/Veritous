@@ -1,0 +1,20 @@
+.vscode
+.idea
+*.iml
+
+node_modules
+
+# Generated bundle — shipped via GitHub releases, not committed.
+main.js
+*.map
+
+# Obsidian-written plugin data.
+data.json
+
+# Derived SQLite index — rebuilt on load.
+index.db
+index.db-journal
+index.db-*
+
+.DS_Store
+Thumbs.db

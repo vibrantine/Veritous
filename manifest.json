@@ -1,0 +1,9 @@
+{
+	"id": "veritous",
+	"name": "Veritous",
+	"version": "0.1.0",
+	"minAppVersion": "1.5.0",
+	"description": "Markdown-native, local-first source and evidence management with epistemic typing.",
+	"author": "Josh Weir",
+	"isDesktopOnly": true
+}
